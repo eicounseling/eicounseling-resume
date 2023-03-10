@@ -17,7 +17,7 @@ resume_title:                   "Counselor"
 resume_contact_email:           "ei@eicounseling.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "‪612-389-0241 (Google Voice)‬"
+resume_contact_telephone:       "‪612-389-0241‬"
 resume_contact_address:         "Saint Paul, MN"
 
 resume_header_contact_info:     "Saint Paul, MN • 612-389-0241 • ei@eicounseling.com"
